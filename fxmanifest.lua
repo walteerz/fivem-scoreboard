@@ -12,10 +12,10 @@ client_script 'client.lua'
 ui_page 'html/scoreboard.html'
 
 files {
-	'html/scoreboard.html',
-	'html/style.css',
-	'html/listener.js',
-	'html/logo.png'
+	'scoreboard.html',
+	'style.css',
+	'listener.js',
+	'logo.png'
 }
 
 exports {
