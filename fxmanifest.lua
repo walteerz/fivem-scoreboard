@@ -1,13 +1,13 @@
 fx_version "bodacious"
 games {"gta5"}
 
-description 'ESX Scoreboard from ExileRP 3.0'
+description 'skorobord'
 
 version '1.0.0'
 
-server_script 'server/main.lua'
+server_script 'server.lua'
 
-client_script 'client/main.lua'
+client_script 'client.lua'
 
 ui_page 'html/scoreboard.html'
 
